@@ -1,6 +1,6 @@
 ## Rule the wastelands of **Rust** with our fully undetected and optimized 
 Packed with **Aimbot, ESP, Wallhack, No Recoil, Gather ESP** and more — perfect for dominating every wipe.
-
+[![image.png](https://i.postimg.cc/2SKf588Q/image.png)](https://postimg.cc/rDxHnT4s)
 ---
 
 ## ⚡ Features
